@@ -1,1 +1,1 @@
-spike-navigation
+Spike Navigation

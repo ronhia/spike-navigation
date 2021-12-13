@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Spike Navigation</string>
+
+    <string name="setting_title">Setting</string>
+    <string name="profile_title">Profile</string>
+    <string name="search_title">Search</string>
+    <string name="home_title">Home</string>
+    <string name="qr_scan_title">Qr Scan</string>
+
+    <string name="payment_checkout">Payment checkout</string>
+    <string name="payment_confirm">Payment confirm</string>
+    <string name="payment_constancy">Payment constancy</string>
+
+    <string name="login_title">Login</string>
+    <string name="login_go_home">Go Home</string>
+
+    <string name="product_list_title">Product list</string>
+
+</resources>
