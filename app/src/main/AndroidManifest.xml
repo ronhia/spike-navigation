@@ -3,7 +3,7 @@
     package="com.ronha.spike.navigation">
 
     <application
-        android:name=".presentation.application.SpikeApplication"
+        android:name=".ui.application.SpikeApplication"
         android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -11,7 +11,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SpikeNavigation">
         <activity
-            android:name=".presentation.features.login.LoginActivity"
+            android:name=".ui.features.qr.QrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.features.login.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,10 +23,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".presentation.features.main.MainActivity"
+            android:name=".ui.features.main.MainActivity"
             android:exported="false" />
         <activity
-            android:name=".presentation.features.qr.scan.ScanActivity"
+            android:name=".ui.features.qr.scan.ScanActivity"
             android:exported="false" />
     </application>
 

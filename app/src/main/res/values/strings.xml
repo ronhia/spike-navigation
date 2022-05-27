@@ -7,9 +7,9 @@
     <string name="home_title">Home</string>
     <string name="qr_scan_title">Qr Scan</string>
 
-    <string name="payment_checkout">Payment checkout</string>
-    <string name="payment_confirm">Payment confirm</string>
-    <string name="payment_constancy">Payment constancy</string>
+    <string name="payment_checkout">1 Payment checkout</string>
+    <string name="payment_confirm">2 Payment confirm</string>
+    <string name="payment_constancy">3 Payment constancy</string>
 
     <string name="login_title">Login</string>
     <string name="login_go_home">Go Home</string>
